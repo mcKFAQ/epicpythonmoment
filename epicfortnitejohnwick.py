@@ -1,0 +1,26 @@
+import time
+print ("ATTENTION ALL EPIC FORTNITE GAMERS!!!")
+time.sleep(3)
+print ("John Wick is in great danger and he needs your help to wipe out the squads in the Tilted Towers!")
+time.sleep(5)
+print ("But to do this he needs a golden scar and a couple of chug jugs.")
+time.sleep(5)
+print ("To help him, all he needs is your credit card number, the three digits on the back")
+time.sleep(5)
+print ("And the expiration month and year.")
+time.sleep(3)
+print ("But, you gotta be quick!")
+time.sleep(2)
+print ("So John Wick can secure the bag and achieve the epic Victory Royal!")
+time.sleep(2)
+print ("Will you help finish the fight?")
+answer = input()
+if answer == 'yes':
+    print("Epic we will see you soon for that epic victory royale!")
+    time.sleep(3)
+if answer == 'Yes':
+    print("Epic we will see you soon for that epic victory royale!")
+    time.sleep(3)
+else:
+    print ("Damn chief, we really do live in a society.")
+    time.sleep(3)
